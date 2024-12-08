@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: "Bokor", system-ui, sans-serif;
+}
+
+.bokor-regular {
+  font-family: "Bokor", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
